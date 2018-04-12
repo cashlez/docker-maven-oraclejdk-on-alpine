@@ -1,4 +1,4 @@
-FROM cashlez/docker-alpine-oraclejdk8:latest
+FROM cashlez/alpine-oraclejdk8:latest
 
 RUN apk add --no-cache curl tar bash procps
 
