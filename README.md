@@ -1,5 +1,5 @@
 # docker-maven-oraclejdk-on-alpine
-Dockerfile of maven with oraclejdk on alpine
+Docker of maven with oraclejdk on alpine
 
 @Dockerhub: https://hub.docker.com/r/cashlez/maven-oraclejdk-on-alpine/
 
