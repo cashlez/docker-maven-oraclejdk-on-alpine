@@ -201,6 +201,6 @@
    limitations under the License.
    
    --------------------------------- CHANGES STATEMENT ------------------------------------------
-   SOME OF THE SCRIPTS TO INSTALL MAVEN ARE TAKEN FROM:
+   SOME OF THE SCRIPTS AND FILES TO INSTALL MAVEN ARE TAKEN FROM:
  
    https://github.com/carlossg/docker-maven
