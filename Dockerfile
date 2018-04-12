@@ -1,4 +1,4 @@
-FROM cashlez/alpine-oraclejdk8:latest
+FROM cashlez/alpine-oraclejdk8:1.0.0
 
 RUN apk add --no-cache curl tar bash procps
 
