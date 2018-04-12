@@ -18,6 +18,8 @@ docker pull cashlez/maven-oraclejdk-on-alpine:1.0.0
 ## References
 https://github.com/cashlez/docker-alpine-glibc
 https://github.com/cashlez/docker-alpine-oraclejdk8
+https://github.com/carlossg/docker-maven
 
 ## Thanks
 https://github.com/frol Vlad Frolov
+https://github.com/carlossg Carlos Sanchez
